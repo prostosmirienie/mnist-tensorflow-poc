@@ -5,7 +5,7 @@ This repository contains a simple example of training a neural network using Ten
 ## Downloading this repo
 
 ```bash
-git clone https://github.com/prostosmirienie/mist-tensorflow-poc.git
+git clone https://github.com/prostosmirienie/mnist-tensorflow-poc.git
 cd mist-tensorflow-tutorial
 
 ```
