@@ -1,0 +1,12 @@
+venv/
+__pychache__/
+*.pyc
+
+logs/
+saved_models/
+*.h5
+
+*.log
+*.csv
+*.json
+
