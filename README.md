@@ -52,7 +52,7 @@ deactivate
 
 ~2GB disk space
 
-## Environment setting
+### System setting
 
 If you don't have much experience working with Python 3, below are detailed instructions on how to install everything you need to be abble and set up an environmentand run this project locally on Linux Debian.
 
