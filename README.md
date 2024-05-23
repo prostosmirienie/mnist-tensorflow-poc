@@ -1,4 +1,4 @@
-# MNIST TensorFlow Tutorial
+# MNIST TensorFlow PoC
 
 This repository contains a simple example of training a neural network using TensorFlow to classify handwritten digits from the MNIST dataset.
 
