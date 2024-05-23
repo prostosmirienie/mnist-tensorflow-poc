@@ -10,3 +10,5 @@ saved_models/
 *.csv
 *.json
 
+*.swp
+
